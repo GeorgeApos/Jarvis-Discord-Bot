@@ -1,4 +1,4 @@
-This is my first attempt to get involved with Javascript and discord.js
+This is my first attempt on getting envolved with Javascript and discord.js
 
 
 [![GitKraken shield](https://img.shields.io/badge/GitKraken-Legendary%20Git%20Tools-teal?style=plastic&logo=gitkraken)](https://gitkraken.com/invite/<your-referral-code>)
